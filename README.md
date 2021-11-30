@@ -12,6 +12,6 @@ cd ejs-estudos
 > Para instalar os arquivos necessários para o funcionamento adequado do node, utilize os comandos abaixo em seu bash:
 ```
 $ npm install
-$ node server.js
+$ node server.js2
 ```
-> Primeiro comando ira instalar as dependências utilizadas no projeto e o segundo comando ira inicializar a aplicação no servido local 8080, para vizualizar o projeto digite no browser: http://localhost:8080/.
+> Primeiro comando ira instalar as dependências utilizadas no projeto e o segundo comando ira inicializar a aplicação no servidor local 8080, para vizualizar o projeto digite no browser: http://localhost:8080/.
